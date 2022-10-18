@@ -7,7 +7,6 @@
 - JPMorgan Chase
 - Morgan Stanley
 - Wells Fargo
-- The analysis addressed;
 
 ### The Analysis 
 - Close price of each stock from 2017 through 2021
